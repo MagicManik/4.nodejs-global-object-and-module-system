@@ -1,3 +1,4 @@
+// if e function or module wrapper function that himself calls himself !!
 // (function moduleWrapperFunction(require, module, __filename, __dirname) {
 const people = ['manik', 'amena', 'monir', 'arafat'];
 const a = 40;
